@@ -1,0 +1,7 @@
+This website is under development: 
+
+Here are some problems to develop;
+
+01. At 768px of max width in media queries, the overlay effect of Types of Food is not working. 
+02. The hamburger menue size is very big.
+03. Develop the website for rotate screen in the mobile browser.
